@@ -1,4 +1,4 @@
-# Navy Access Control System
+#  Access Control System
 
 > Documentation-focused system design project exploring secure access control, authorization hierarchy, and role-based security models for high-security environments.
 
@@ -6,7 +6,7 @@
 
 ## 📘 Project Overview
 
-The **Navy Access Control System** is a documentation-based system design project that outlines how secure access control mechanisms can be structured for high-security environments.
+The ** Access Control System** is a documentation-based system design project that outlines how secure access control mechanisms can be structured for high-security environments.
 
 The project emphasizes **authorization logic**, **role-based access control (RBAC)**, **access hierarchy**, and **controlled zone management**, using conceptual and simulated data only.
 
