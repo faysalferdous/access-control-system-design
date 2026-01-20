@@ -1,0 +1,14 @@
+
+PHASE 1 – DEMO
+- Card + Face + Liveness
+
+PHASE 2 – SECURITY
+- Encrypted embeddings
+- Multi-photo
+
+PHASE 3 – HARDWARE
+- RFID + Door Relay
+
+PHASE 4 – ENTERPRISE
+- Central Server
+- SIEM Logs
